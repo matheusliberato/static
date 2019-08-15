@@ -1,4 +1,9 @@
-# Before You Begin
+## Overview
+
+This project set up a jenkins CI to upload a HTML page from GitHub to Amazon S3 Bucket
+by configuring all necessary stage and steps in Jenkinsfile.
+
+## Before You Begin
 
 Please make sure you have the following in place before you begin your project:
 
