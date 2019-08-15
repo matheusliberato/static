@@ -1,3 +1,5 @@
+[![Build Status](http://ec2-52-43-1-213.us-west-2.compute.amazonaws.com:8080/job/static/job/master/badge/icon)](http://ec2-52-43-1-213.us-west-2.compute.amazonaws.com:8080/job/static/job/master/)
+
 ## Overview
 
 This project set up a jenkins CI to upload a HTML page from GitHub to Amazon S3 Bucket
